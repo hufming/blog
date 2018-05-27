@@ -1,8 +1,11 @@
 ---
 layout: post
-title: 程序员的思维修炼
+title:  程序员的思维修炼
+date:   2014-11-22
+categories: notes
 ---
 ##《程序员的思维修炼》 
+
 Andy Hunt
 
 >此书的前半场适用于侃大山,已经记不清了。主动学习和积累经验两个章节读后有些收获。
