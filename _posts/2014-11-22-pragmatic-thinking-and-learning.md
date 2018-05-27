@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 程序员的思维修炼
 ---
 ##《程序员的思维修炼》 

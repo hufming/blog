@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: git 常用操作
 ---
 
