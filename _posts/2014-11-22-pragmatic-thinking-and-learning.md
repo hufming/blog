@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 程序员的思维修炼
 ---
 ##《程序员的思维修炼》 
