@@ -4,7 +4,7 @@ title:  程序员的思维修炼
 date:   2014-11-22
 categories: notes
 ---
-##《程序员的思维修炼》 
+## 《程序员的思维修炼》 
 
 Andy Hunt
 
